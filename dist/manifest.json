@@ -1,0 +1,20 @@
+{
+  "name": "Svelte Parser",
+  "short_name": "Svelte Parser",
+  "icons": [
+    {
+      "src": "./img/icons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-icon-512x512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff3e00"
+}
