@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8839a113cf0d9aefe386c416c6ae76d5.js"
+  "/svelte-parser/precache-manifest.9cf8d9c5043123bf0a3653a80ff18dbe.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "svelte-parser"});

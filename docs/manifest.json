@@ -1,6 +1,6 @@
 {
-  "name": "Svelte Parser",
-  "short_name": "Svelte Parser",
+  "name": "Svelte AST Explorer",
+  "short_name": "Svelte AST Explorer",
   "icons": [
     {
       "src": "./img/icons/android-icon-192x192.png",
